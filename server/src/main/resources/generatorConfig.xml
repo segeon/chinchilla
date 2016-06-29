@@ -36,6 +36,8 @@
         </table>
         <table schema="chinchilla" tableName="profile" enableCountByExample="true" enableUpdateByExample="true" enableDeleteByExample="true" enableSelectByExample="true" selectByExampleQueryId="true">
         </table>
+        <table schema="chinchilla" tableName="application_profile" enableCountByExample="true" enableUpdateByExample="true" enableDeleteByExample="true" enableSelectByExample="true" selectByExampleQueryId="true">
+        </table>
     </context>
 
 </generatorConfiguration>
