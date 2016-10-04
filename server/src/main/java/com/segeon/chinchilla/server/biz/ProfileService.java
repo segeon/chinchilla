@@ -25,5 +25,5 @@ public interface ProfileService {
 
     void renameProfile(String code, String newName);
 
-    boolean updateProfileDescription(String code, String des);
+    void updateProfileDescription(String code, String des);
 }
