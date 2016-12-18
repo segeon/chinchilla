@@ -168,3 +168,6 @@ pip-log.txt
 # Overlays
 minos-server/overlays/
 minos-management/overlays/
+
+# local files
+server/src/main/resources/application-dev.properties
